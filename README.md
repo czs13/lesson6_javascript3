@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(July 12, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Connor Simpler)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This project was about editing a site that would display a photo gallery.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://czs13.github.io/lesson6_javascript3/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (How to set up certain buttons.)
+2. (How to edit a photo gallery.)
+3. (Learned about what makes up a typical photo gallery for a site.)
